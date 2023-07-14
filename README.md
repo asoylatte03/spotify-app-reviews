@@ -2,8 +2,12 @@
 ![Gaming Setup](https://github.com/asoylatte03/osf_gaminganxiety/blob/main/images/blurrystock-HIbAmybJHVs-unsplash.jpg)
 
 ## Prerequisites
+This project was ran using a `WINx64` operating system. To replicate the environment used, download the `.txt` file located in the `requisites` folder in this repository. Running the following code will allow you to generate the same `conda env` used throughout this project.
+```
+conda env create -- file <file_name.txt>
+```
 
-## Stakeholder Understanding
+## Business Understanding
  
 
 ## Project Overview
