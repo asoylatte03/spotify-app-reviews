@@ -2,7 +2,7 @@
 ![header](https://github.com/asoylatte03/spotify-app-reviews/blob/main/images/spotify-desktop-header.jpg)
 
 #
-**Author: Kevin Alexis Mendez*
+*Author: Kevin Alexis Mendez*
 ## Prerequisites
 This project was ran using a `WINx64` operating system. To replicate the environment used, download the `.txt` file located in the `requisites` folder in this repository. Running the following code will allow you to generate the same `conda env` used throughout this project.
 ```
@@ -67,4 +67,5 @@ Where the model evaluated reviews to contain negative or positive sentiments, a 
 
 ## Acknowledgements & Credits 
 Credit is given to `M Faarisul Ilmi` for scraping the data from the Google Play Store that this project uses. Check out his Kaggle profile [here](https://www.kaggle.com/mfaaris)
+
 Statistics about Spotify were collected from `The Social Shepherd` and can be found [here](https://thesocialshepherd.com/blog/spotify-statistics)
