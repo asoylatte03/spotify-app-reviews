@@ -3,7 +3,7 @@
 
 ## Prerequisites
 
-## Business Problem & Stakeholder Understanding 
+## Stakeholder Understanding
  
 
 ## Project Overview
@@ -32,3 +32,5 @@
 ### Bug Fixes
 
 ## Acknowledgements & Credits 
+Credit is given to `M Faarisul Ilmi` for scraping the data from the Google Play Store that this project uses. Check out his Kaggle profile [here](https://www.kaggle.com/mfaaris)
+Statistics about Spotify were collected from `The Social Shepherd` and can be found [here](https://thesocialshepherd.com/blog/spotify-statistics)
